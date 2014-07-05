@@ -29,8 +29,8 @@ But, your program should not evaluate:
 
 ###Input Format
 >20  
->10 20 -30 1 5 7 9 66 -100 101
->500 700 1500 33 55 98 2 5 34 28
+>10 20 -30 1 5 7 9 66 -100 101  
+>500 700 1500 33 55 98 2 5 34 28  
 
 The first line of the input displays the total number of elements in the array (less than 
 300,000). The subsequent lines display the array elements separated by spaces and 
@@ -48,7 +48,7 @@ Output the lowest integer value evaluated from the list.
 
 ###Sample Input/Output
 Given the following input:
->20
+>20  
 >10 20 -30 1 5 7 9 66 -100 101  
 >500 700 1500 33 55 98 2 5 34 28  
 
