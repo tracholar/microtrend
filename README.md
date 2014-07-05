@@ -1,4 +1,4 @@
-# 趋势科技2014编程比赛
+# 瓒嬪娍绉戞妧2014缂栫▼姣旇禌
 ## Q012 Prime crossword puzzle in a cell-matrix
 
 ## Q013 Proxy log retrospection
@@ -28,7 +28,7 @@ But, your program should not evaluate:
 *  98 - 24
 
 ###Input Format
->20
+>20  
 >10 20 -30 1 5 7 9 66 -100 101
 >500 700 1500 33 55 98 2 5 34 28
 
@@ -49,7 +49,8 @@ Output the lowest integer value evaluated from the list.
 ###Sample Input/Output
 Given the following input:
 >20
->10 20 -30 1 5 7 9 66 -100 101
->500 700 1500 33 55 98 2 5 34 28
+>10 20 -30 1 5 7 9 66 -100 101  
+>500 700 1500 33 55 98 2 5 34 28  
+
 The output should be:
 >  -1498
