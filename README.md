@@ -9,7 +9,7 @@
 
 ## Q021 President Election of T Republic
 
-## Minimum value
+## Q026 Minimum value
 Given a 32-bit integer array, calculate the lowest possible value between 2 integers in 
 an array. 
 Note that the order of the numbers cannot be changed. Your program must evaluate 
