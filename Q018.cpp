@@ -96,8 +96,8 @@ int main(){
 	char news[MAXLEN];
 
 	Map map = new Node[MAXWORD];
-	while(!cin.eof()){
-		fgets(news,MAXLEN-1, stdin);
+	while(NULL != fgets(news,MAXLEN, stdin)){
+		
 		memset(map,0,MAXWORD*sizeof(Node));
 		mapLen = 0;
 
