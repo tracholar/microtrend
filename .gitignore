@@ -1,1 +1,5 @@
 *.bak
+*.exe
+*.obj
+*.lib
+
